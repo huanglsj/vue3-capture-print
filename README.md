@@ -9,3 +9,6 @@ npm install
 
 ## 启动服务
 npm run dev
+
+## 效果图
+![alt text](image.png)
